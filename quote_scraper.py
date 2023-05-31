@@ -3,7 +3,7 @@ import pandas as pd
 import bs4 as bs
 import requests
 
-# scrapes quotes, authors, and tags for each entry in the webpage and creates a dataframe from the results.
+# scrapes quotes, authors, and tags for each entry in the given webpage and creates a dataframe from the results.
 
 webpage = requests.get('https://quotes.toscrape.com/tag/books/')
 soup = bs.BeautifulSoup(webpage.text, 'html.parser')
