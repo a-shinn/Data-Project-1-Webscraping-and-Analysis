@@ -21,15 +21,19 @@ data['Tags'] = data['Tags'].str.split()
 for tags in data['Tags']:
     tags = tags.remove('Tags:')
 
-print(data.sort_values('Author'))
-print()
-print(data.describe())
+# print(data.sort_values('Author'))
+# print()
+# print(data.describe())
+#
+# data.to_csv('src/quotes.csv', index=False)
 
-data.to_csv('src/quotes.csv', index=False)
+# counts frequency of each tag in the list of books
+tag_counts = {}
+for series in data['Tags']:
+    for taglist in series:
+        # tag_counts[taglist] += 1
+        if taglist in tag_counts:
+            tag_counts[taglist] += 1
+        else:
+            tag_counts[taglist] = 1
 
-# counts number of times the 'books' tag appears in the scraped list
-# count = 0
-# for item in data['Tags']:
-#     if 'books' in item:
-#         count += 1
-# print(count)
