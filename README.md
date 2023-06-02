@@ -1,3 +1,3 @@
-# the_lab
+# NGE Data Project
 
-This is the general repository I'm using to keep my coding projects as I work on them.
+This is a repository for the files I'm using and creating in my data project to analyze the characters and script of Neon Genesis Evangelion.
