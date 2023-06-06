@@ -16,6 +16,8 @@ Pandas
 
 Webscraping
 
+JSON
+
 Regex
 
 Data Cleaning
