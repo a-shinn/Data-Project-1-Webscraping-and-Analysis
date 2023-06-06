@@ -2,7 +2,9 @@
 
 repository for my data project to analyze the characters and script of Neon Genesis Evangelion.
 
-skills used:
+--------------------
+
+Skills used:
 
 Python
 
