@@ -10,8 +10,6 @@ Python
 
 Jupyter Notebook
 
-Tableau
-
 Pandas
 
 Webscraping
@@ -21,6 +19,8 @@ JSON
 Regex
 
 Data Cleaning
+
+Feature Engineering
 
 Data Analysis
 
