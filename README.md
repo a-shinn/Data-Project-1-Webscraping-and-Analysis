@@ -5,7 +5,7 @@ Repository for my first data project to analyze the characters and script of Neo
 The goal of this project was to practice my skills through the entire data pipeline from beginning to end, that is, gathering, cleaning, storage, feature engineering, analysis, and visualization.
 For this project I wanted to use Python as I've been self-studying and wanted to solidify what I've learned. Overall I'm very happy with this project and how it turned out, as I learned a lot and became much more comfortable coding with Python and its syntax, as well as working with new packages by researching their documentation. I initially started the project using PyCharm as my IDE but later moved to Jupyter Notebook as I found the ability to run smaller blocks of code useful for analysis and to save time and server load on the website that I pulled scripts from (source: https://www.animanga.com/scripts/anime_scripts_english.html).
 
-The notebook files that I used for webscraping and data analysis are in the main folder, and the final visualizations are located in the visualizations_final folder as well as the src folder they were created in.
+The notebook files that I used for webscraping and data analysis are in the main folder, and final visualizations are located in the visualizations_final folder as well as the src folder they were created in.
 
 Notes for further analysis:
 - the translation that I used is accurate enough for general numeric analysis, but not ideal for finer analysis. The numbers are only mostly accurate as the translations were done as a fan project and there are numerous typos for character names and their actual dialogue. If a better dataset were available the analysis would be more accurate, but overall the quality is good enough to work with.
