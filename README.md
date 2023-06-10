@@ -1,6 +1,6 @@
 # Data Project 1 - NGE
 
-Repository for my first data project - to analyze the characters and script of Neon Genesis Evangelion. My initial inspiration was drawn from a data visualization for The Office. (link: https://public.tableau.com/app/profile/kasia.gasiewska.holc/viz/DwightSchrutesSurveillanceSystem/SurveillanceSystem)
+Repository for my first data project to analyze the characters and script of Neon Genesis Evangelion. My initial inspiration was drawn from a data visualization for The Office. (link: https://public.tableau.com/app/profile/kasia.gasiewska.holc/viz/DwightSchrutesSurveillanceSystem/SurveillanceSystem)
 
 The goal of this project was to practice my skills through the entire data pipeline from beginning to end, that is, gathering, cleaning, storage, feature engineering, analysis, and visualization.
 For this project I wanted to use Python as I've been self-studying and wanted to solidify what I've learned. Overall I'm very happy with this project and how it turned out, as I learned a lot and became much more comfortable coding with Python and its syntax, as well as working with new packages by researching their documentation. I initially started the project using PyCharm as my IDE but later moved to Jupyter Notebook as I found the ability to run smaller blocks of code useful for analysis and to save time and server load on the website that I pulled the scripts from.
