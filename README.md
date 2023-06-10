@@ -1,4 +1,4 @@
-# Data Project 1 - NGE
+# Data Project 1 - Analysis of Neon Genesis Evangelion
 
 Repository for my data project to analyze the characters and script of Neon Genesis Evangelion. My initial inspiration was drawn from a data visualization for The Office (link: https://public.tableau.com/app/profile/kasia.gasiewska.holc/viz/DwightSchrutesSurveillanceSystem/SurveillanceSystem).
 
